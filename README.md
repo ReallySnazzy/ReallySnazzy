@@ -25,3 +25,4 @@
 - [Lua](https://www.lua.org/)
 - [Haskell](https://www.haskell.org/)
 - [C#](https://dotnet.microsoft.com/languages/csharp)
+- [Julia](https://julialang.org/)

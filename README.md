@@ -7,7 +7,7 @@
 - [CPU Software Rasterizer](https://www.khanacademy.org/computer-programming/3d-racer-v1/5626222573912064)
 - [Smash Blox (Roblox Game Created in Lua with Over 100k Visits)](https://www.roblox.com/games/4047328969/Smash-Blox-Beta)
 
-# Interests
+# Software-Related Interests
 
 - Unique Programming Languages
 - [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
@@ -15,6 +15,7 @@
 - [Kubernetes](https://kubernetes.io/)
 - [OpenGL](https://www.opengl.org/)
 - [High Performance Async I/O](https://en.wikipedia.org/wiki/Asynchronous_I/O)
+- [Concurrent Programming](https://en.wikipedia.org/wiki/Concurrent_computing)
 
 ## Primary Programming Languages 
 

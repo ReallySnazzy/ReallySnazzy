@@ -1,4 +1,4 @@
-# Cool projects
+# Cool Projects I Built
 
 - [CryptoCurrency Paper Trading Discord Bot](https://github.com/CryptoBrokerBot)
 - [Lua JSON Parser](https://github.com/ReallySnazzy/single-file-lua-json-parser)

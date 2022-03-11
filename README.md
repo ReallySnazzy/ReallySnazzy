@@ -23,7 +23,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [C#](https://dotnet.microsoft.com/languages/csharp)
-- [Java](https://en.wikipedia.org/wiki/Java_(programming_language)
+- [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [Rust](https://www.rust-lang.org/)
 - [Lua](https://www.lua.org/)
 - [Haskell](https://www.haskell.org/)

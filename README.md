@@ -15,4 +15,4 @@
 - [C#](https://dotnet.microsoft.com/languages/csharp)
 - [Rust](https://www.rust-lang.org/)
 - [Lua](https://www.lua.org/)
-- [Haskell](https://www.haskell.org/)
+- [Hack](https://hacklang.org/)
